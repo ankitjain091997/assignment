@@ -20,7 +20,7 @@
         
         ------admin credentail for testing 
        
-       email - user@gmail.com
+       email - admin@gmail.com
        pwd  - 12345678
 
 
